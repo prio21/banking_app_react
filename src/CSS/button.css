@@ -1,0 +1,15 @@
+.custom-button {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: inherit;
+    color: #fff;
+    cursor: pointer;
+    width: fit-content;
+    position: relative;
+}
+.cen {
+    position: relative;
+    left: 5%;
+      
+}
